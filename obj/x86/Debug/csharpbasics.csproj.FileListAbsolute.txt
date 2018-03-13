@@ -1,0 +1,5 @@
+/Users/iansmith/Desktop/Mizzou/Junior year/Semester 2/Object Oriented/C# Basics/csharpbasics/csharpbasics/obj/x86/Debug/csharpbasics.csproj.CoreCompileInputs.cache
+/Users/iansmith/Desktop/Mizzou/Junior year/Semester 2/Object Oriented/C# Basics/csharpbasics/csharpbasics/bin/Debug/csharpbasics.exe
+/Users/iansmith/Desktop/Mizzou/Junior year/Semester 2/Object Oriented/C# Basics/csharpbasics/csharpbasics/bin/Debug/csharpbasics.pdb
+/Users/iansmith/Desktop/Mizzou/Junior year/Semester 2/Object Oriented/C# Basics/csharpbasics/csharpbasics/obj/x86/Debug/csharpbasics.exe
+/Users/iansmith/Desktop/Mizzou/Junior year/Semester 2/Object Oriented/C# Basics/csharpbasics/csharpbasics/obj/x86/Debug/csharpbasics.pdb
